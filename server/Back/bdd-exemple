@@ -1,0 +1,86 @@
+[
+    {
+      "name": "Robe Bleu",
+      "description": "Belle robe bleu neuve",
+      "price": 39.99,
+      "stock": 100,
+        "reference" : "http://www.idresstocode.com/images/Image/tailleur_robe_bleu_robe_fourreau.jpg"
+    },
+    {
+      "name": "Top Blanc",
+      "description": "Beau top neuf blanc",
+      "price": 24.99,
+      "stock": 100,
+        "reference" : "http://aphrodite.shopeo.com/pictures/0211/9342/debardeur-top-blanc-en-coton-avec-dos-en-dentelle-soyez-tendance-en-dentelle_big.jpeg"
+    },
+    {
+      "name": "Jean Slim Bleu",
+      "description": "Beau jean slim bleu",
+      "price": 55,
+      "stock": 100,
+        "reference" : "http://i2.cdscdn.com/pdt2/1/8/3/1/700x700/6156183/rw/les-essentiels-jean-slim-femme.jpg"
+    },
+    {
+      "name": "Robe Noire",
+      "description": "Belle robe bleu neuve",
+      "price": 39.99,
+      "stock": 100,
+        "reference" : "https://media.missguided.com/s/missguided/DE907852_set/1/robe-noire--volants-paules-dnudes-manches-longues.jpg?$product-page__zoom--1x$"
+    },
+    {
+      "name": "Top Noir",
+      "description": "Beau top neuf blanc",
+      "price": 24.99,
+      "stock": 100,
+        "reference" : "http://images.1001modes.com/imgs/4195-0/top-black-limited-femme-noir-zoom.jpg"
+    },
+    {
+      "name": "Jean Slim Noir",
+      "description": "Beau jean slim bleu",
+      "price": 55,
+      "stock": 100,
+      "reference" : "https://medias.mim.com/media/sys_master/images/h2a/h4a/9437690920990.jpg"
+    },
+    {
+      "name": "Robe Rouge",
+      "description": "Belle robe bleu neuve",
+      "price": 39.99,
+      "stock": 100,
+        "reference" : "http://www.jmrouge.fr/blog/wp-content/uploads/2016/01/robe-rouge.jpg"
+    },
+    {
+      "name": "Top Rouge",
+      "description": "Beau top neuf blanc",
+      "price": 24.99,
+      "stock": 100,
+        "reference" : "http://www.le-showroom-de-maud.fr/1827-thickbox/top-dos-croise.jpg"
+    },
+    {
+      "name": "Jean Slim Rouge",
+      "description": "Beau jean slim bleu",
+      "price": 55,
+      "stock": 100,
+        "reference" : "http://aphrodite.shopeo.com/pictures/0307/2483/magnifique-jeans-rouge-froisse-en-slim-avec-dechirure-et-pin-s-jeans-q708_big.jpeg"
+    },
+    {
+      "name": "Robe Jaune",
+      "description": "Belle robe bleu neuve",
+      "price": 39.99,
+      "stock": 100,
+        "reference" : "http://i2.cdscdn.com/pdt2/4/7/4/1/700x700/mp00439474/rw/robe-courte-alexi-jaune-jaune.jpg"
+    },
+    {
+      "name": "Top Jaune",
+      "description": "Beau top neuf blanc",
+      "price": 24.99,
+      "stock": 100,
+        "reference" : "http://i11.twenga.com/mode/crop-top/crop-top-jaune-du-tp_3289684206428129253f.jpg"
+    },
+    {
+      "name": "Jean Slim Jaune",
+      "description": "Beau jean slim bleu",
+      "price": 55,
+      "stock": 100,
+        "reference" : "http://www.sasha-mode.com/1673-thickbox_default/jean-slim-jaune.jpg"
+    }
+]

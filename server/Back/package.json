@@ -1,0 +1,29 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "Partie server en nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7",
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "mime": "^1.3.4",
+    "mongoose": "^4.7.7"
+  },
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "server"
+  ],
+  "author": "KADI Massil / BERKANI Lyes",
+  "license": "ISC"
+}
