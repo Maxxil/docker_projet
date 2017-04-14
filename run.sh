@@ -12,7 +12,7 @@ docker build -t node server
 #Installation de httpd
 docker build -t web web
 #Lancement du serveur
-docker run -p 27017:27017 tutum/mongodb mongod --smallfiles \
+docker run -d -p 27017:27017 tutum/mongodb mongod --smallfiles \
 && sleep 10 &&  docker run -d -p 1337:1337 node \
 && sleep 20 && docker run -p 8080:80 web
 
