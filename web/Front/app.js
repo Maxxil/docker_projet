@@ -13,5 +13,5 @@ var app = angular.module("cheapPrices", [
     'order'
 ]);
 
-var apiBaseUrl = "http://localhost:1337";
+var apiBaseUrl = "http://10.69.2.170:1337";
 
